@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Exercicio2
 {
 
-	
-
 	public static void main(String args[]){
 
 		Scanner input = new Scanner(System.in);
@@ -22,10 +20,6 @@ public class Exercicio2
 		System.out.println("program.");
 
 		System.out.printf("%s\n%s\n", "This is a Java","program.");
-
-
-
-
 
 	}
 }
